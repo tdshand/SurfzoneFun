@@ -16,21 +16,21 @@ There are a number of different ways of running SurfZoneFun:
 
 ![Alt text](https://github.com/tdshand/SurfzoneFun/blob/main/Docs/GUIv1.0cover.jpg)
 
-Software requirements: 
+## Software requirements: 
 Matlab (tested on R2018b), Image processing toolbox
 
-Known bugs:
+## Known bugs:
 -	Can run out of memory if you are trying to process too many frames (or more often save a process video with too many frames)  
 -	If you stack a row it will pull out the profile left to right – so if you’re looking north it can give a back-to-front stack
 -	Threshold still needs a bit of trial and error and isn’t great with varying exposure during the video, shadowing, etc.
 
-To-dos for future versions
+## To-dos for future versions
 1.	Add a variable or dynamic threshold for breaking waves
 2.	Add an option to rectify output images (at the moment you can do separately using g_rect or similar)
 3.	Add an option to register video to remove movement between frames
 4.	Incorporate wmeasure to assess breaking wave height (from Shand et al 2012)
 
-Contact:
+## Contact:
 Dr Tom Shand
 Department of Civil and Environmental Engineering, The University of Auckland
 t.shand@auckland.ac.nz | t.d.shand@gmail.com
@@ -40,17 +40,17 @@ Shand, T., Bailey, D., Shand, R. (2011) Automated Detection of Breaking Wave Hei
 
 Shand, T., Weppe, S., Quilter, P., Short, A., Blumberg, B and Reinen-Hamill, R. (2020) Assessing the Effect Of Earthquake-Induced Uplift And Engineering Works on a Surf Break of National Significance. Coastal Engineering Proceedings
 
-Examples
+## Examples
 ExampleVid1_Ngaranui.MOV 
 Timelapse video of Ngaranui Beach by Tom Shand (2020)
-Run from GUI or run_Example1.m 
- 
+
+![Alt text](https://github.com/tdshand/SurfzoneFun/blob/main/Docs/Example1.jpg)
+
 ExampleVid2_GoldCoast-WRL.mp4 
 Timelapse video of Palm Beach by the Water Research Laboratory (2020)
-Run from GUI or run_Example2.m 
  
+![Alt text](https://github.com/tdshand/SurfzoneFun/blob/main/Docs/Example2.jpg)
 
 ExampleVid3_MangamaunuRect.avi
 Rectified timelapse video of Mangamaunu Point, see Shand et al., (2020)
-Run from GUI or run_Example3.m 
- 
+![Alt text](https://github.com/tdshand/SurfzoneFun/blob/main/Docs/Example3.jpg)
