@@ -41,7 +41,7 @@ Shand, T., Bailey, D., Shand, R. (2011) Automated Detection of Breaking Wave Hei
 Shand, T., Weppe, S., Quilter, P., Short, A., Blumberg, B and Reinen-Hamill, R. (2020) Assessing the Effect Of Earthquake-Induced Uplift And Engineering Works on a Surf Break of National Significance. Coastal Engineering Proceedings
 
 ## Examples
-Example 1
+### Example 1
 
 ExampleVid1_Ngaranui.MOV
 
@@ -49,7 +49,7 @@ Timelapse video of Ngaranui Beach by Tom Shand (2020)
 
 ![Alt text](https://github.com/tdshand/SurfzoneFun/blob/main/Docs/Example1.jpg)
 
-Example 2
+### Example 2
 
 ExampleVid2_GoldCoast-WRL.mp4 
 
@@ -57,8 +57,7 @@ Timelapse video of Palm Beach by the Water Research Laboratory (2020)
  
 ![Alt text](https://github.com/tdshand/SurfzoneFun/blob/main/Docs/Example2.jpg)
 
-Example 3
-
+### Example 3
 
 ExampleVid3_MangamaunuRect.avi
 
