@@ -42,18 +42,26 @@ Shand, T., Weppe, S., Quilter, P., Short, A., Blumberg, B and Reinen-Hamill, R. 
 
 ## Examples
 Example 1
+
 ExampleVid1_Ngaranui.MOV
+
 Timelapse video of Ngaranui Beach by Tom Shand (2020)
 
 ![Alt text](https://github.com/tdshand/SurfzoneFun/blob/main/Docs/Example1.jpg)
 
 Example 2
+
 ExampleVid2_GoldCoast-WRL.mp4 
+
 Timelapse video of Palm Beach by the Water Research Laboratory (2020)
  
 ![Alt text](https://github.com/tdshand/SurfzoneFun/blob/main/Docs/Example2.jpg)
 
 Example 3
+
+
 ExampleVid3_MangamaunuRect.avi
+
 Rectified timelapse video of Mangamaunu Point, see Shand et al., (2020)
+
 ![Alt text](https://github.com/tdshand/SurfzoneFun/blob/main/Docs/Example3.jpg)
