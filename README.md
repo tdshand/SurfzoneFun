@@ -1,4 +1,8 @@
 # SurfzoneFun
+
+[![DOI](https://doi.org/10.24433/CO.5658154.v1)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 SurfzoneFun processes videos to illustrate surf zone processes.
 
 The main functions of the package include:
