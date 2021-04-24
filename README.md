@@ -1,6 +1,5 @@
 # SurfzoneFun
 
-[![GitHub release](https://github.com/tdshand/SurfzoneFun/releases/tag/v1.0)](https://github.com/tdshand/SurfzoneFun/releases/tag/v1.0)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 SurfzoneFun processes videos to illustrate surf zone processes.
