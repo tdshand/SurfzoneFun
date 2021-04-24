@@ -40,6 +40,9 @@ Shand, T., Bailey, D., Shand, R. (2011) Automated Detection of Breaking Wave Hei
 
 Shand, T., Weppe, S., Quilter, P., Short, A., Blumberg, B and Reinen-Hamill, R. (2020) Assessing the Effect Of Earthquake-Induced Uplift And Engineering Works on a Surf Break of National Significance. Coastal Engineering Proceedings
 
+## Cite as
+Shand, T. and Quilter, P. (2021) Surfzone Fun v1.0 [Source Code]. https://doi.org/10.24433/CO.5658154.v1
+
 ## Examples
 ### Example 1
 
