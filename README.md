@@ -1,6 +1,5 @@
 # SurfzoneFun
 
-[![DOI](https://doi.org/10.24433/CO.5658154.v1)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 SurfzoneFun processes videos to illustrate surf zone processes.
@@ -39,13 +38,13 @@ Dr Tom Shand
 Department of Civil and Environmental Engineering, The University of Auckland
 t.shand@auckland.ac.nz | t.d.shand@gmail.com
 
-References
+## Cite as
+Shand, T. and Quilter, P. (2021) Surfzone Fun v1.0 [Source Code]. https://doi.org/10.24433/CO.5658154.v1
+
+## References
 Shand, T., Bailey, D., Shand, R. (2011) Automated Detection of Breaking Wave Height Using an Optical Technique. J. Coast. Res.2012,28, 671–682.
 
 Shand, T., Weppe, S., Quilter, P., Short, A., Blumberg, B and Reinen-Hamill, R. (2020) Assessing the Effect Of Earthquake-Induced Uplift And Engineering Works on a Surf Break of National Significance. Coastal Engineering Proceedings
-
-## Cite as
-Shand, T. and Quilter, P. (2021) Surfzone Fun v1.0 [Source Code]. https://doi.org/10.24433/CO.5658154.v1
 
 ## Examples
 ### Example 1
